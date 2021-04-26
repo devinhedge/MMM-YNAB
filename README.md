@@ -21,6 +21,7 @@ var config = {
             position: "top_bar",
             config: {
                 token: "ADD_YNAB_TOKEN_HERE",
+                budget_id: "ADD_YNAB_BUDGET_ID_HERE",
                 categories: [ "Household", "Pets", "Grocery", "Kids Clothes", "Restaurants", "Lunch", "Spontaneous Fun" ]
             }
         },
